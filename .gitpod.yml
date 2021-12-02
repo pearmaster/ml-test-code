@@ -1,2 +1,7 @@
+
 tasks:
 - command: pip3 install tensorflow
+
+vscode:
+  extensions:
+    - ms-python.python
