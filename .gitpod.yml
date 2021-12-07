@@ -1,6 +1,6 @@
 
 tasks:
-- command: pip3 install tensorflow
+- command: pip3 install tensorflow pandas sklearn
 
 vscode:
   extensions:
